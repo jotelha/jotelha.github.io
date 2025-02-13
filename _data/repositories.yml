@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jotelha
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jic-dtool/dservercore
+  - livMatS/dtool-lookup-gui
+  - livMatS/dtool-lookup-api
+  - jotelha/mergetools
+  - jotelha/pnp-on-rough-surfaces
