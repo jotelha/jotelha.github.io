@@ -1,10 +1,8 @@
 {
   "basics": {
     "name": "Johannes L. Hörmann",
-    "label": "Scientist",
     "image": "",
     "email": "johannes.laurin@gmail.com",
-    "phone": "(912) 123-4567",
     "url": "https://jotelha.github.io",
     "summary": "Computational tribologist, data explorer, and sinoenthusiast.",
     "location": {
@@ -51,7 +49,7 @@
     },
     {
       "name": "Academic examination office, a joint institution of the German Embassy’s cultural department and the German Academic Exchange Service (DAAD)",
-      "position": "Data Steward",
+      "position": "Examiner",
       "url": "https://www.aps.org.cn",
       "startDate": "2017-02",
       "summary": "Conducting interviews for plausibility verification of academic records.",
@@ -108,7 +106,8 @@
       "location": "Holzminden, Germany",
       "url": "https://www.campe-hol.de",
       "studyType": "Abitur",
-      "endDate": "2006-06",
+      "startDate": "2000-09",
+      "endDate": "2007-06",
       "score": "1.3",
       "courses": ["Mathematics", "Latin", "Physics", "Politics"]
     }
@@ -117,7 +116,7 @@
     {
       "title": "Trinational KTUR Summer School Entrepreneurship: Best Project Award",
       "date": "2022-09",
-      "url": "https://www.gruenden.uni-freiburg.de/wordpress/veranstaltungen/ktur-summer-school-on-entrepreneurship"
+      "url": "https://www.youtube.com/watch?v=jgXHkJIGUOo"
     },
     {
       "title": "6th World Tribology Congress: Best Poster Award",
@@ -128,96 +127,72 @@
       "date": "2013-09",
       "awarder": "German Academic Exchange Service (DAAD)",
       "url": "https://www.daad.de",
-      "summary": "For studies at Tsinghua University, Beijing, China."
+      "summary": "studies at Tsinghua University, Beijing, China."
     },
     {
       "title": "DAAD Annual Scholarship for Language Studies / Huayu Enrichment Scholarship",
       "date": "2010-09",
       "awarder": "German Academic Exchange Service (DAAD) and Ministry of Education, Taiwan",
       "url": "https://en.wikipedia.org/wiki/Huayu_Enrichment_Scholarship",
-      "summary": "For language studies at National Sun Yat-Sen University, Kaohsiung, Taiwan."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "summary": "language studies at National Sun Yat-Sen University, Kaohsiung, Taiwan."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "dtool and dserver: A flexible ecosystem for findable data",
+      "publisher": "PLOS ONE",
+      "releaseDate": "2024-06-25",
+      "url": "https://doi.org/10.1371/journal.pone.0306100",
+      "summary": "Making data FAIR—findable, accessible, interoperable, reproducible—has become the recurring theme behind many research data management efforts. dtool is a lightweight data management tool that packages metadata with immutable data to promote accessibility, interoperability, and reproducibility. Each dataset is self-contained and does not require metadata to be stored in a centralised system. This decentralised approach means that finding datasets can be difficult. dtool’s lookup server, short dserver, as defined by a REST API, makes dtool datasets findable, hence rendering the dtool ecosystem fit for a FAIR data management world. Its simplicity, modularity, accessibility and standardisation via API distinguish dtool and dserver from other solutions and enable it to serve as a common denominator for cross-disciplinary research data management. The dtool ecosystem bridges the gap between standardisation-free data management by individuals and FAIR platform solutions with rigid metadata requirements."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "matscipy: materials science at the atomic scale with Python",
+      "publisher": "Journal of Open Source Software",
+      "releaseDate": "2024-01-28",
+      "url": "https://doi.org/10.21105/joss.05668",
+      "summary": "Behaviour of materials is governed by physical phenomena that occur at an extreme range of length and time scales. Computational modelling requires multiscale approaches. Simulation techniques operating on the atomic scale serve as a foundation for such approaches, providing necessary parameters for upper-scale models. The physical models employed for atomic simulations can vary from electronic structure calculations to empirical force fields. However, construction, manipulation and analysis of atomic systems are independent of the given physical model but dependent on the specific application. matscipy implements such tools for applications in materials science, including fracture, plasticity, tribology and electrochemistry."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Molecular simulations of sliding on SDS surfactant films",
+      "publisher": "The Journal of Chemical Physics",
+      "releaseDate": "2023-06-28",
+      "url": "https://doi.org/10.1063/5.0153397",
+      "summary": "We use molecular dynamics simulations to study the frictional response of monolayers of the anionic surfactant sodium dodecyl sulfate and hemicylindrical aggregates physisorbed on gold. Our simulations of a sliding spherical asperity reveal the following two friction regimes: at low loads, the films show Amonton's friction with a friction force that rises linearly with normal load, and at high loads, the friction force is independent of the load as long as no direct solid–solid contact occurs. The transition between these two regimes happens when a single molecular layer is confined in the gap between the sliding bodies. The friction force at high loads on a monolayer rises monotonically with film density and drops slightly with the transition to hemicylindrical aggregates. This monotonous increase of friction force is compatible with a traditional plowing model of sliding friction. At low loads, the friction coefficient reaches a minimum at the intermediate surface concentrations. We attribute this behavior to a competition between adhesive forces, repulsion of the compressed film, and the onset of plowing."
+    },
+    {
+      "name": "Molecular Simulations of Electrotunable Lubrication: Viscosity and Wall Slip in Aqueous Electrolytes",
+      "publisher": "Tribology Letters",
+      "releaseDate": "2021-01-30",
+      "url": "https://doi.org/10.1007/s11249-020-01395-6",
+      "summary": "We study the frictional response of water-lubricated gold electrodes subject to an electrostatic potential difference using molecular dynamics simulations. Contrary to previous studies on electrotunable lubrication that were carried out by fixing the charges, our simulations keep electrodes at fixed electrostatic potential using a variable charge method. For pure water and NaCl solutions, viscosity is independent of the polarization of the electrodes, but wall slip depends on the potential difference. Our findings are in agreement with previous analytical theories of how wall slip is affected by interatomic interactions. The simulations shed light on the role of electrode polarization for wall slip and illustrate a mechanism for controlling friction and nanoscale flow in simple aqueous lubricants."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "methods",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Finite Elements Method (FEM) with COMSOL, ANSYS, and FEniCSx",
+        "Molecular Dynamics (MD) by GROMACS and LAMMPS",
+        "Density Functional-based Tight Binding (DFTB) with Atomistica",
+        "Density Functional Theory (DFT) with CASTEP",
+        "Machine Learning (GPR, GPC) with gpflow and sklearn",
+        "Computational Workflow Management with FireWorks and snakemake",
+        "Research Data Management with dtool & dserver"
       ]
+    },
+    {
+      "name": "other tech skills",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["GitHub CI/CD", "Docker", "Singularity", "EasyBuild", "lmod", "Slurm", "Python", "C/C++", "MATLAB", "Mathematica", "LaTeX"]
+    },
+    {
+      "name": "driver's license",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["motorbike", "car"]
     }
   ],
   "languages": [
@@ -230,42 +205,11 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "Chinese",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ]
 }
