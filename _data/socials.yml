@@ -12,7 +12,3 @@ research_gate_profile: Johannes-Hoermann-4 # your profile on ResearchGate
 scholar_userid: j9n8S9QAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-linkedin_profile:
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png
-  title: LinkedIn
-  url: https://www.linkedin.com/in/jotelha/
