@@ -40,7 +40,6 @@
       "startDate": "2022-05",
       "endDate": "2023-09",
       "summary": "Co-founder and CTO of Start Up Surface Design Solutions",
-      "highlights": ["RDM policy", "DMP review", "dtool & dserver development"]
     },
     {
       "position": "Parental Leave",
@@ -143,28 +142,28 @@
       "publisher": "PLOS ONE",
       "releaseDate": "2024-06-25",
       "url": "https://doi.org/10.1371/journal.pone.0306100",
-      "summary": "Making data FAIR—findable, accessible, interoperable, reproducible—has become the recurring theme behind many research data management efforts. dtool is a lightweight data management tool that packages metadata with immutable data to promote accessibility, interoperability, and reproducibility. Each dataset is self-contained and does not require metadata to be stored in a centralised system. This decentralised approach means that finding datasets can be difficult. dtool’s lookup server, short dserver, as defined by a REST API, makes dtool datasets findable, hence rendering the dtool ecosystem fit for a FAIR data management world. Its simplicity, modularity, accessibility and standardisation via API distinguish dtool and dserver from other solutions and enable it to serve as a common denominator for cross-disciplinary research data management. The dtool ecosystem bridges the gap between standardisation-free data management by individuals and FAIR platform solutions with rigid metadata requirements."
+      "summary": "The dtool ecosystem bridges the gap between standardisation-free data management by individuals and FAIR platform solutions with rigid metadata requirements."
     },
     {
       "name": "matscipy: materials science at the atomic scale with Python",
       "publisher": "Journal of Open Source Software",
       "releaseDate": "2024-01-28",
       "url": "https://doi.org/10.21105/joss.05668",
-      "summary": "Behaviour of materials is governed by physical phenomena that occur at an extreme range of length and time scales. Computational modelling requires multiscale approaches. Simulation techniques operating on the atomic scale serve as a foundation for such approaches, providing necessary parameters for upper-scale models. The physical models employed for atomic simulations can vary from electronic structure calculations to empirical force fields. However, construction, manipulation and analysis of atomic systems are independent of the given physical model but dependent on the specific application. matscipy implements such tools for applications in materials science, including fracture, plasticity, tribology and electrochemistry."
+      "summary": "matscipy implements such tools for applications in materials science, including fracture, plasticity, tribology and electrochemistry."
     },
     {
       "name": "Molecular simulations of sliding on SDS surfactant films",
       "publisher": "The Journal of Chemical Physics",
       "releaseDate": "2023-06-28",
       "url": "https://doi.org/10.1063/5.0153397",
-      "summary": "We use molecular dynamics simulations to study the frictional response of monolayers of the anionic surfactant sodium dodecyl sulfate and hemicylindrical aggregates physisorbed on gold. Our simulations of a sliding spherical asperity reveal the following two friction regimes: at low loads, the films show Amonton's friction with a friction force that rises linearly with normal load, and at high loads, the friction force is independent of the load as long as no direct solid–solid contact occurs. The transition between these two regimes happens when a single molecular layer is confined in the gap between the sliding bodies. The friction force at high loads on a monolayer rises monotonically with film density and drops slightly with the transition to hemicylindrical aggregates. This monotonous increase of friction force is compatible with a traditional plowing model of sliding friction. At low loads, the friction coefficient reaches a minimum at the intermediate surface concentrations. We attribute this behavior to a competition between adhesive forces, repulsion of the compressed film, and the onset of plowing."
+      "summary": "We use molecular dynamics simulations to study the frictional response of monolayers of the anionic surfactant sodium dodecyl sulfate and hemicylindrical aggregates physisorbed on gold."
     },
     {
       "name": "Molecular Simulations of Electrotunable Lubrication: Viscosity and Wall Slip in Aqueous Electrolytes",
       "publisher": "Tribology Letters",
       "releaseDate": "2021-01-30",
       "url": "https://doi.org/10.1007/s11249-020-01395-6",
-      "summary": "We study the frictional response of water-lubricated gold electrodes subject to an electrostatic potential difference using molecular dynamics simulations. Contrary to previous studies on electrotunable lubrication that were carried out by fixing the charges, our simulations keep electrodes at fixed electrostatic potential using a variable charge method. For pure water and NaCl solutions, viscosity is independent of the polarization of the electrodes, but wall slip depends on the potential difference. Our findings are in agreement with previous analytical theories of how wall slip is affected by interatomic interactions. The simulations shed light on the role of electrode polarization for wall slip and illustrate a mechanism for controlling friction and nanoscale flow in simple aqueous lubricants."
+      "summary": "We study the frictional response of water-lubricated gold electrodes subject to an electrostatic potential difference using molecular dynamics simulations."
     }
   ],
   "skills": [

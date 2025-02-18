@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>Johannes L. Hörmann</p>
     <p>University of Freiburg</p>
-    <p>Cluster of Excellence livMatS @ FIT</p>
-    <p>Georges-Köhler-Allee 105, room 01.030</p>
+    <p>livMatS @ FIT</p>
+    <p>Georges-Köhler-Allee 105</p>
+    <p>Room 01.030</p>
     <p>D-79110 Freiburg</p>
     <p>Germany</p>
 
