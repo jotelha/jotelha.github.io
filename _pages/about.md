@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Computational tribologist, data explorer, and sinoenthusiast.
+subtitle: Computational tribologist, data explorer, and sinoenthusiast.
 
 profile:
   align: right
