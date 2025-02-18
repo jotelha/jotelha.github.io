@@ -173,20 +173,26 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Finite Elements Method (FEM) with COMSOL, ANSYS, and FEniCSx",
-        "Molecular Dynamics (MD) by GROMACS and LAMMPS",
-        "Density Functional-based Tight Binding (DFTB) with Atomistica",
-        "Density Functional Theory (DFT) with CASTEP",
-        "Machine Learning (GPR, GPC) with gpflow and sklearn",
-        "Computational Workflow Management with FireWorks and snakemake",
-        "Research Data Management with dtool & dserver"
+        "FEM with COMSOL, ANSYS, and FEniCSx",
+        "MD sith GROMACS and LAMMPS",
+        "DFTB with Atomistica",
+        "DFT with CASTEP",
+        "ML (GPR, GPC) with gpflow and sklearn",
+        "Workflow Management with FireWorks and snakemake",
+        "Data Management with dtool & dserver"
       ]
     },
     {
-      "name": "other tech skills",
+      "name": "DevOps skills",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["GitHub CI/CD", "Docker", "Singularity", "EasyBuild", "lmod", "Slurm", "Python", "C/C++", "MATLAB", "Mathematica", "LaTeX"]
+      "keywords": ["GitHub CI/CD", "OpenStack", "Docker", "Podman", "Singularity", "Make", "CMake","EasyBuild", "lmod", "Slurm", "MongoDB", "Flask", "REST API"]
+    },
+    {
+      "name": "languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "C/C++", "MATLAB", "Mathematica", "LaTeX"]
     },
     {
       "name": "driver's license",
