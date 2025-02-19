@@ -37,7 +37,7 @@ Experienced research professional specializing in computational modeling for mic
 - Developed atomistic models of surfactant adsorption films using MD for Ph.D. research.
 - Applied machine learning (GPC, GPR) to predict rough surface performance in an entrepreneurial venture.
 - Co-coordinated proposal writing for the DFG-funded 'AWEARNESS' project, employing DFT to study zinc phosphate glasses typically grown as films in tribo-induced decomposition reactions of ZDDP, a common additive in engine oils.
-- All these modeling contributions have been made possible by rigid design of reproducible workflows with well-established Workflow Management Systems (WMS).
-- Co-developer and maintainer for the [dtool & dserver](www.dtool.dev) data management ecosystem, a community effort.
+- Designed reproducible workflows with well-established Workflow Management Systems (WMS).
+- Co-developer and maintainer for the [dtool & dserver](https://www.dtool.dev) data management ecosystem, a community effort.
 
 Currently serving as Data Steward at the Cluster of Excellence [livMatS](https://www.livmats.uni-freiburg.de).
