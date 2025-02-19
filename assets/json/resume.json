@@ -39,12 +39,15 @@
       "url": "https://surface.design",
       "startDate": "2022-05",
       "endDate": "2023-09",
-      "summary": "Co-founder and CTO of Start Up Surface Design Solutions"
+      "summary": "Co-founder and CTO of Start Up Surface Design Solutions",
+      "highlights": ["ML Ops", "DevOps", "Customer support"]
     },
     {
       "position": "Parental Leave",
+      "url": "https://github.com/jotelha/babypi",
       "startDate": "2021-01",
-      "endDate": "2021-07"
+      "endDate": "2021-07",
+      "highlights": ["Time management", "Leadership"]
     },
     {
       "name": "Academic examination office, a joint institution of the German Embassy’s cultural department and the German Academic Exchange Service (DAAD)",
@@ -95,8 +98,8 @@
       "url": "https://www.fu-berlin.de",
       "area": "Physics",
       "studyType": "B. Sc.",
-      "startDate": "2012-09",
-      "endDate": "2017-03",
+      "startDate": "2008-09",
+      "endDate": "2012-09",
       "score": "2.0",
       "courses": ["Bachelor thesis (grade 1.0, German scale): Large Scale Parallel Simulation of EPR Lineshape Spectra"]
     },
