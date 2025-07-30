@@ -4,7 +4,7 @@
     "image": "",
     "email": "johannes.laurin@gmail.com",
     "url": "https://jotelha.github.io",
-    "summary": "Computational tribologist, data explorer, and sinoenthusiast.",
+    "summary": "Computational nanotribologist",
     "location": {
       "address": "Hansjakobstr. 30",
       "postalCode": "79194",
@@ -34,8 +34,17 @@
       "highlights": ["RDM policy", "DMP review", "dtool & dserver development"]
     },
     {
-      "name": "Surface Design Solutions",
-      "position": "Co-founder",
+      "institution": "Simulation, Dept. of Microsystems Engineering (IMTEK), University of Freiburg",
+      "position": "Scientific staff",
+      "url": "https://pastewka.org",
+      "startDate": "2017-07",
+      "endDate": "2025-01",
+      "summary": "Scientific staff in simulation group with various teaching and research duties.",
+      "highlights": ["Teaching", "Supervision", "Grant proposal writing", "Public speaking", "International collaboration", "DFT simulations", "MD simulations"]
+    },
+    {
+      "name": "Surface Design Solutions, remote",
+      "position": "Co-founder (part-time)",
       "url": "https://surface.design",
       "startDate": "2022-05",
       "endDate": "2023-09",
@@ -50,12 +59,30 @@
       "highlights": ["Time management", "Leadership"]
     },
     {
-      "name": "Academic examination office, a joint institution of the German Embassy’s cultural department and the German Academic Exchange Service (DAAD)",
-      "position": "Examiner",
+      "name": "Academic evaluation center, a joint institution of the German Embassy’s cultural department and the German Academic Exchange Service (DAAD), Beijing China",
+      "position": "Examiner (repeated assignments of 2 to 4 months each, 11 months in total)",
       "url": "https://www.aps.org.cn",
       "startDate": "2017-02",
+      "endDate": "2023-09",
       "summary": "Conducting interviews for plausibility verification of academic records.",
-      "highlights": ["Conversation planning and management"]
+      "highlights": ["Motivational interviewing","Conversation planning and management"]
+    },
+    {
+      "name": "University-affiliated language centers at Beijing Language and Culture University and Peking University, Beijing, China",
+      "position": "German Teacher (part-time)",
+      "startDate": "2014-09",
+      "endDate": "2015-06",
+      "summary": "Teaching preparatory courses for academic studies in Germany.",
+      "highlights": ["Teaching German as a foreign language", "Lecturing"]
+    },
+    {
+      "name": "Australia",
+      "position": "Working Holiday",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+      "startDate": "2007-08",
+      "endDate": "2008-07",
+      "summary": "Various jobs in meat processing and hotel industry.",
+      "highlights": ["Flexibility", "Adaptability", "Communication"]
     }
   ],
   "education": [
@@ -64,9 +91,9 @@
       "location": "Freiburg, Germany",
       "url": "https://uni-freiburg.de",
       "area": "Microsystems Engineering",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy (Ph. D.)",
       "startDate": "2017-07",
-      "endDate": "2025-01",
+      "endDate": "2025-07",
       "courses": ["Dissertation: Friction of Adsorption Films with Reproducible Molecular Dynamics"]
     },
     {
@@ -74,7 +101,7 @@
       "location": "Beijing, China",
       "url": "https://www.tsinghua.edu.cn",
       "area": "Mechanical Engineering / Engineering Science",
-      "studyType": "Double Degree Master Program",
+      "studyType": "Double Degree Master Program between Tsinghua University and TU Berlin",
       "startDate": "2014-09",
       "endDate": "2017-01",
       "courses": [
@@ -82,11 +109,20 @@
       ]
     },
     {
+      "institution": "Tsinghua University",
+      "location": "Beijing, China",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "Mechanical Engineering",
+      "studyType": "DAAD Annual Scholarship for Exchange Studies",
+      "startDate": "2013-09",
+      "endDate": "2014-08"
+    },
+    {
       "institution": "Technische Universität Berlin",
       "location": "Berlin, Germany",
       "url": "https://www.tu.berlin",
       "area": "Engineering Science",
-      "studyType": "M. Sc.",
+      "studyType": "Master of Science (M. Sc.)",
       "startDate": "2012-09",
       "endDate": "2017-03",
       "score": "1.6",
@@ -97,11 +133,29 @@
       "location": "Berlin, Germany",
       "url": "https://www.fu-berlin.de",
       "area": "Physics",
-      "studyType": "B. Sc.",
+      "studyType": "Bachelor of Science (B. Sc.)",
       "startDate": "2008-09",
       "endDate": "2012-09",
       "score": "2.0",
       "courses": ["Bachelor thesis (grade 1.0, German scale): Large Scale Parallel Simulation of EPR Lineshape Spectra"]
+    },
+    {
+      "institution": "National Sun Yat-Sen University",
+      "location": "Kaohsiung, Taiwan",
+      "url": "https://www.nsysu.edu.tw",
+      "area": "Chinese language",
+      "studyType": "DAAD Annual Scholarship for Language Studies / Huayu Enrichment Scholarship",
+      "startDate": "2010-09",
+      "endDate": "2011-09"
+    },
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://vu.nl/en",
+      "area": "Physics",
+      "studyType": "ERASMUS Exchange",
+      "startDate": "2009-09",
+      "endDate": "2010-06"
     },
     {
       "institution": "Campe Gymnasium Holzminden",
@@ -141,6 +195,13 @@
   ],
   "publications": [
     {
+      "name": " Friction of adsorption films with reproducible molecular dynamics ",
+      "publisher": "University of Freiburg",
+      "releaseDate": "2025-07-15",
+      "url": "https://doi.org/10.6094/UNIFR/269291",
+      "summary": "Cumulative PhD dissertation."
+    },
+    {
       "name": "dtool and dserver: A flexible ecosystem for findable data",
       "publisher": "PLOS ONE",
       "releaseDate": "2024-06-25",
@@ -171,17 +232,46 @@
   ],
   "skills": [
     {
-      "name": "methods",
+      "name": "simulation methods",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "FEM with COMSOL, ANSYS, and FEniCSx",
         "MD sith GROMACS and LAMMPS",
         "DFTB with Atomistica",
-        "DFT with CASTEP",
+        "DFT with GPAW and CASTEP",
         "ML (GPR, GPC) with gpflow and sklearn",
         "Workflow Management with FireWorks and snakemake",
         "Data Management with dtool & dserver"
+      ]
+    },
+    {
+      "name": "machine learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Gaussian process regression & classification (GPR, GPC) with gpflow and sklearn"
+      ]
+    },
+    {
+      "name": "big data",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Workflow Management with FireWorks and snakemake",
+        "Data Management with dtool & dserver"
+      ]
+    },
+    {
+      "name": "visualization",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "matplotlib",
+        "seaborn",
+        "OVITO",
+        "VMD",
+        "PyMOL"
       ]
     },
     {
@@ -205,10 +295,18 @@
       ]
     },
     {
-      "name": "languages",
+      "name": "programming languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "C/C++", "MATLAB", "Mathematica", "LaTeX"]
+      "keywords": [
+        "Python",
+        "C/C++",
+        "tcl",
+        "Lua",
+        "MATLAB",
+        "Mathematica",
+        "LaTeX"
+      ]
     },
     {
       "name": "driver's license",
