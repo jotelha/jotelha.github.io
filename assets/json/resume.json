@@ -40,7 +40,15 @@
       "startDate": "2017-07",
       "endDate": "2025-01",
       "summary": "Scientific staff in simulation group with various teaching and research duties.",
-      "highlights": ["Teaching", "Supervision", "Grant proposal writing", "Public speaking", "International collaboration", "DFT simulations", "MD simulations"]
+      "highlights": [
+        "Teaching",
+        "Supervision",
+        "Grant proposal writing",
+        "Public speaking",
+        "International collaboration",
+        "DFT simulations",
+        "MD simulations"
+      ]
     },
     {
       "name": "Surface Design Solutions, remote",
@@ -65,7 +73,7 @@
       "startDate": "2017-02",
       "endDate": "2023-09",
       "summary": "Conducting interviews for plausibility verification of academic records.",
-      "highlights": ["Motivational interviewing","Conversation planning and management"]
+      "highlights": ["Motivational interviewing", "Conversation planning and management"]
     },
     {
       "name": "University-affiliated language centers at Beijing Language and Culture University and Peking University, Beijing, China",
@@ -249,30 +257,19 @@
       "name": "machine learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Gaussian process regression & classification (GPR, GPC) with gpflow and sklearn"
-      ]
+      "keywords": ["Gaussian process regression & classification (GPR, GPC) with gpflow and sklearn"]
     },
     {
       "name": "big data",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Workflow Management with FireWorks and snakemake",
-        "Data Management with dtool & dserver"
-      ]
+      "keywords": ["Workflow Management with FireWorks and snakemake", "Data Management with dtool & dserver"]
     },
     {
       "name": "visualization",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "matplotlib",
-        "seaborn",
-        "OVITO",
-        "VMD",
-        "PyMOL"
-      ]
+      "keywords": ["matplotlib", "seaborn", "OVITO", "VMD", "PyMOL"]
     },
     {
       "name": "DevOps skills",
@@ -298,15 +295,7 @@
       "name": "programming languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "tcl",
-        "Lua",
-        "MATLAB",
-        "Mathematica",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "C/C++", "tcl", "Lua", "MATLAB", "Mathematica", "LaTeX"]
     },
     {
       "name": "driver's license",
