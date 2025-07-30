@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computational tribologist, data explorer, and sinoenthusiast.
+subtitle: Computational nanotribologist
 
 profile:
   align: right
@@ -33,11 +33,11 @@ latest_posts:
 
 Experienced research professional specializing in computational modeling for micro- and nanotribology and materials science. Key achievements include:
 
-- Established continuum models of rough interfaces using FEM to study solvent concentration variations on rough surfaces.
-- Developed atomistic models of surfactant adsorption films using MD for Ph.D. research.
-- Applied machine learning (GPC, GPR) to predict rough surface performance in an entrepreneurial venture.
-- Co-coordinated proposal writing for the DFG-funded 'AWEARNESS' project, employing DFT to study zinc phosphate glasses typically grown as films in tribo-induced decomposition reactions of ZDDP, a common additive in engine oils.
-- Designed reproducible workflows with well-established Workflow Management Systems (WMS).
-- Co-developer and maintainer for the [dtool & dserver](https://www.dtool.dev) data management ecosystem, a community effort.
+- Established electrochemical models of electrolytes at rough interfaces using the **Finite Elements Method (FEM)** for solving a system of *Poisson-Nernst-Planck equations* to study solvent concentration variations.
+- Developed atomistic models of surfactant adsorption films using **Molecular Dynamics (MD)** for studying their friction behavior in Ph.D. project [*Friction of Adsorption Films with Reproducible Molecular Dynamics*](https://doi.org/10.6094/UNIFR/269291).
+- Applied **machine learning methods (GPC, GPR)** to predict rough surface performance in an entrepreneurial venture.
+- Co-coordinated proposal writing for the DFG-funded ‘AWEARNESS’ project, employing **density functional theory (DFT)** to study zinc phosphate glasses typically grown as films in tribo-induced decomposition reactions of ZDDP, a common additive in engine oils.
+- Designed reproducible computational workflows with the well-established **Workflow Management Systems (WMS)** [*FireWorks*](https://materialsproject.github.io/fireworks) and [*snakemake*](https://snakemake.readthedocs.io/en/stable).
+- Co-developed and maintained the open-source [*dtool & dserver*](https://www.dtool.dev) **Research Data Management (RDM)** ecosystem, a community effort.
 
 Currently serving as Data Steward at the Cluster of Excellence [livMatS](https://www.livmats.uni-freiburg.de).
