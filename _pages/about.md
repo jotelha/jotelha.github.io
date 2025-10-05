@@ -10,12 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Johannes L. Hörmann</p>
-    <p>University of Freiburg</p>
-    <p>livMatS @ FIT</p>
-    <p>Georges-Köhler-Allee 105</p>
-    <p>Room 01.030</p>
-    <p>D-79110 Freiburg</p>
-    <p>Germany</p>
+    <p>Nagoya University</p>
+    <p>Graduate School of Informatics</p>
+    <p>Department of Complex Systems Science</p>
+    <p>Room 618</p>
+    <p>Furocho, Chikusa Ward, Nagoya, Aichi 464-0000</p>
+    <p>Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -40,4 +40,4 @@ Experienced research professional specializing in computational modeling for mic
 - Designed reproducible computational workflows with the well-established **Workflow Management Systems (WMS)** [_FireWorks_](https://materialsproject.github.io/fireworks) and [_snakemake_](https://snakemake.readthedocs.io/en/stable).
 - Co-developed and maintained the open-source [_dtool & dserver_](https://www.dtool.dev) **Research Data Management (RDM)** ecosystem, a community effort.
 
-Currently serving as Data Steward at the Cluster of Excellence [livMatS](https://www.livmats.uni-freiburg.de).
+Currently serving as Specially Appointed Assistant Professor in the [Zhang lab](https://zhang-laboratory.org/en) of the [Department of Complex Systems Science](https://www.i.nagoya-u.ac.jp/en/gs/cpss/), [Graduate School of Informatics](https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/), [Nagoya University](https://en.nagoya-u.ac.jp/).

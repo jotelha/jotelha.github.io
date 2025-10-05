@@ -26,10 +26,19 @@
   },
   "work": [
     {
+      "name": "Department of Complex Systems Science, Graduate School of Informatics, Nagoya University",
+      "position": "Specially Appointed Assistant Professor",
+      "url": "https://profs.provost.nagoya-u.ac.jp/html/100014482_en.html",
+      "startDate": "2025-10",
+      "summary": "Development of machine-learning coarse-grained representations of polymer adsorption films.",
+      "highlights": ["Coarse graining", "Machine learning", "Molecular dynamics"]
+    },
+    {
       "name": "livMatS Cluster of Excellence, University of Freiburg, Germany",
       "position": "Data Steward",
       "url": "https://www.livmats.uni-freiburg.de/de/news-press/making-data-accessible-recognizing-technological-potential",
       "startDate": "2021-08",
+      "endDate": "2025-09",
       "summary": "Development and implementation of Research Data Management (RDM) policy. Development and provision of RDM tooling.",
       "highlights": ["RDM policy", "DMP review", "dtool & dserver development"]
     },
@@ -102,6 +111,7 @@
       "studyType": "Doctor of Philosophy (Ph. D.)",
       "startDate": "2017-07",
       "endDate": "2025-07",
+      "score": "magna cum laude",
       "courses": ["Dissertation: Friction of Adsorption Films with Reproducible Molecular Dynamics"]
     },
     {
