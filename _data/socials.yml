@@ -10,5 +10,7 @@ orcid_id: 0000-0001-5867-695X # your ORCID ID
 research_gate_profile: Johannes-Hoermann-4 # your profile on ResearchGate
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: j9n8S9QAAAAJ # your Google Scholar ID
-wechat_qr: wechat_qrcode.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_username: jotelha
+# wechat_qr: wechat_qrcode.png # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+work_url: https://profs.provost.nagoya-u.ac.jp/html/100014482_en.html
