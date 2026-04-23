@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A personal academic homepage for Johannes L. Hörmann (computational nanotribologist), built on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme and deployed to `jotelha.github.io` via GitHub Pages.
+A personal academic homepage for Johannes L. Hörmann (computational nanotribologist), built on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme (v0.16.3) and deployed to `jotelha.github.io` via GitHub Pages.
 
 ## Local development
 
@@ -62,7 +62,8 @@ All personal content lives in these locations — everything else is theme infra
 - `scholar:` — name fields for author highlighting in publications (`last_name: [Hörmann]`)
 - `exclude:` — several template pages are excluded from the build (placeholder projects, blog, profiles, teaching, dropdown pages, all `announcement_*.md`)
 - Jekyll Scholar (`jekyll/scholar`) auto-generates the publications page from `papers.bib`, grouped by year descending
-- CV page (`_pages/cv.md`) points to `cv_pdf: 2025-07-30-CV-academic-en.pdf`
+- CV page (`_pages/cv.md`) points to `cv_pdf: /assets/pdf/2025-07-30-CV-academic-en.pdf` (v0.16.3+ requires the full path prefix)
+- `_data/socials.yml` now also has a `cv_pdf` field (new in v0.16.3) — keep it in sync with `_pages/cv.md`
 
 ## Liquid templates
 
