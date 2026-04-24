@@ -34,7 +34,7 @@
         {% endif %}
         <a
           class="dropdown-item {% if lang == site.active_lang %}active{% endif %}"
-          href="{{ lang_url | relative_url }}"
+          href="{{ site.baseurl }}{{ lang_url }}"
         >
           {% case lang %}
             {% when 'en' %}English

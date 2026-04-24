@@ -92,7 +92,8 @@ layout: default
           <a class="anchor" id="{{ data[0] }}"></a>
           <div class="card mt-3 p-3">
             {% assign cv_lang_data = site.data.lang[cv_lang] %}
-            {% assign section_label = cv_lang_data.cv_sections[data[0]] | default: data[0] | capitalize %}
+            {% assign cv_section_key = "cv_section_" | append: data[0] %}
+            {% assign section_label = cv_lang_data[cv_section_key] | default: data[0] | capitalize %}
             <h3 class="card-title font-weight-medium">{{ section_label }}</h3>
             <div>
               {% case data[0] %}

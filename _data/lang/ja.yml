@@ -10,16 +10,18 @@ ui:
   toggle_nav: ナビゲーション切替
   current: 現在のページ
 
-cv_sections:
-  basics: 基本情報
-  work: 職歴
-  education: 学歴
-  publications: 発表論文
-  skills: スキル
-  languages: 語学力
-  awards: 受賞歴
-  certificates: 資格
-  interests: 興味・関心
-  projects: プロジェクト
-  volunteer: ボランティア活動
-  references: 推薦状
+selected_publications: 主要論文
+last_updated: "最終更新："
+
+cv_section_basics: 基本情報
+cv_section_work: 職歴
+cv_section_education: 学歴
+cv_section_publications: 発表論文
+cv_section_skills: スキル
+cv_section_languages: 語学力
+cv_section_awards: 受賞歴
+cv_section_certificates: 資格
+cv_section_interests: 興味・関心
+cv_section_projects: プロジェクト
+cv_section_volunteer: ボランティア活動
+cv_section_references: 推薦状

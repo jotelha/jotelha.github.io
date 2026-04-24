@@ -10,16 +10,18 @@ ui:
   toggle_nav: Toggle navigation
   current: current
 
-cv_sections:
-  basics: Basics
-  work: Work
-  education: Education
-  publications: Publications
-  skills: Skills
-  languages: Languages
-  awards: Awards
-  certificates: Certificates
-  interests: Interests
-  projects: Projects
-  volunteer: Volunteer
-  references: References
+selected_publications: selected publications
+last_updated: "Last updated:"
+
+cv_section_basics: Basics
+cv_section_work: Work
+cv_section_education: Education
+cv_section_publications: Publications
+cv_section_skills: Skills
+cv_section_languages: Languages
+cv_section_awards: Awards
+cv_section_certificates: Certificates
+cv_section_interests: Interests
+cv_section_projects: Projects
+cv_section_volunteer: Volunteer
+cv_section_references: References

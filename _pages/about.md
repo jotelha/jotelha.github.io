@@ -15,7 +15,7 @@ profile:
     <p>Graduate School of Informatics</p>
     <p>Department of Complex Systems Science</p>
     <p>Room 618</p>
-    <p>Furocho, Chikusa Ward, Nagoya, Aichi 464-0000</p>
+    <p>Furocho, Chikusa Ward, Nagoya, Aichi 464-8601</p>
     <p>Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,13 +32,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Experienced research professional specializing in computational modeling for micro- and nanotribology and materials science. Key achievements include:
+Computational tribologist developing multiscale simulation methods and FAIR data infrastructure for the rational, data-driven design of molecular lubricants. Research interests span molecular dynamics of surfactant and polymer adsorption films, electrotunable lubrication, multiscale friction modeling, and machine learning-guided inverse lubricant design.
 
-- Established electrochemical models of electrolytes at rough interfaces using the **Finite Elements Method (FEM)** for solving a system of _Poisson-Nernst-Planck equations_ to study solvent concentration variations.
-- Developed atomistic models of surfactant adsorption films using **Molecular Dynamics (MD)** for studying their friction behavior in Ph.D. project [_Friction of Adsorption Films with Reproducible Molecular Dynamics_](https://doi.org/10.6094/UNIFR/269291).
-- Applied **machine learning methods (GPC, GPR)** to predict rough surface performance in an entrepreneurial venture.
-- Co-coordinated proposal writing for the DFG-funded ‘AWEARNESS’ project, employing **density functional theory (DFT)** to study zinc phosphate glasses typically grown as films in tribo-induced decomposition reactions of ZDDP, a common additive in engine oils.
-- Designed reproducible computational workflows with the well-established **Workflow Management Systems (WMS)** [_FireWorks_](https://materialsproject.github.io/fireworks) and [_snakemake_](https://snakemake.readthedocs.io/en/stable).
-- Co-developed and maintained the open-source [_dtool & dserver_](https://www.dtool.dev) **Research Data Management (RDM)** ecosystem, a community effort.
+Current research at Nagoya University focuses on:
 
-Currently serving as Specially Appointed Assistant Professor in the [Zhang lab](https://zhang-laboratory.org/en) of the [Department of Complex Systems Science](https://www.i.nagoya-u.ac.jp/en/gs/cpss/), [Graduate School of Informatics](https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/), [Nagoya University](https://en.nagoya-u.ac.jp/).
+- Building a **high-throughput multiscale simulation platform** for nanotribology, linking atomistic MD to continuum FEM through Gaussian-process surrogate models, to generate AI-ready friction datasets (JRAP 2026–27; Fugaku 2026–27; NINS RCCS 2026).
+- **Sequence-dependent friction of polyalkylmethacrylate (PAMA) copolymers** — all-atom and coarse-grained MD to predict how block vs. statistical architecture controls boundary lubrication performance.
+- **Electrotunable surfactant friction** — parametric MD of SDS and CTAB films on gold electrodes under applied potential (collaboration with Prof. Meng Yonggang, Tsinghua, and Dr. Chenxu Liu, University of Alberta).
+
+Earlier work (doctoral research, Univ. Freiburg, 2017–2025):
+
+- All-atom MD of SDS surfactant film friction across concentration, morphology, load, and sliding direction — the first high-dimensional parametric friction map of an aqueous surfactant system [_J. Chem. Phys._ 158, 244703 (2023)](https://doi.org/10.1063/5.0153397).
+- Electrotunable lubrication: MD evidence for potential-driven friction asymmetry at gold electrodes [_Tribol. Lett._ 69, 22 (2021)](https://doi.org/10.1007/s11249-020-01395-6).
+- Co-developed [_dtool & dserver_](https://www.dtool.dev) — lightweight FAIR research data management for large simulation campaigns [_PLOS ONE_ 19, e0306100 (2024)](https://doi.org/10.1371/journal.pone.0306100).
+
+Currently serving as Specially Appointed Assistant Professor in the [Zhang lab](https://zhang-laboratory.org/en), [Department of Complex Systems Science](https://www.i.nagoya-u.ac.jp/en/gs/cpss/), [Graduate School of Informatics](https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/), [Nagoya University](https://en.nagoya-u.ac.jp/).

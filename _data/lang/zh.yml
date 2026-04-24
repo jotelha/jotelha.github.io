@@ -10,16 +10,18 @@ ui:
   toggle_nav: 展开导航
   current: 当前页
 
-cv_sections:
-  basics: 基本信息
-  work: 工作经历
-  education: 教育背景
-  publications: 发表作品
-  skills: 技能
-  languages: 语言能力
-  awards: 奖项
-  certificates: 证书
-  interests: 兴趣爱好
-  projects: 项目
-  volunteer: 志愿服务
-  references: 推荐信
+selected_publications: 精选发表作品
+last_updated: "最近更新："
+
+cv_section_basics: 基本信息
+cv_section_work: 工作经历
+cv_section_education: 教育背景
+cv_section_publications: 发表作品
+cv_section_skills: 技能
+cv_section_languages: 语言能力
+cv_section_awards: 奖项
+cv_section_certificates: 证书
+cv_section_interests: 兴趣爱好
+cv_section_projects: 项目
+cv_section_volunteer: 志愿服务
+cv_section_references: 推荐信
