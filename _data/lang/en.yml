@@ -9,3 +9,17 @@ ui:
   change_theme: Change theme
   toggle_nav: Toggle navigation
   current: current
+
+cv_sections:
+  basics: Basics
+  work: Work
+  education: Education
+  publications: Publications
+  skills: Skills
+  languages: Languages
+  awards: Awards
+  certificates: Certificates
+  interests: Interests
+  projects: Projects
+  volunteer: Volunteer
+  references: References
