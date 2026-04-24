@@ -1,0 +1,11 @@
+nav:
+  about: プロフィール
+  publications: 発表論文
+  cv: 履歴書
+  repositories: リポジトリ
+
+ui:
+  search: 検索
+  change_theme: テーマ切替
+  toggle_nav: ナビゲーション切替
+  current: 現在のページ

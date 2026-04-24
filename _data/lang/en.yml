@@ -1,0 +1,11 @@
+nav:
+  about: about
+  publications: publications
+  cv: cv
+  repositories: repositories
+
+ui:
+  search: Search
+  change_theme: Change theme
+  toggle_nav: Toggle navigation
+  current: current

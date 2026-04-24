@@ -1,0 +1,50 @@
+{% if site.languages.size > 1 %}
+  {% comment %}Strip language prefix from page.url to get the canonical base path{% endcomment %}
+  {% if site.active_lang == site.default_lang %}
+    {% assign base_url = page.url %}
+  {% else %}
+    {% capture lang_prefix %}/{{ site.active_lang }}{% endcapture %}
+    {% assign base_url = page.url | remove_first: lang_prefix %}
+  {% endif %}
+
+  <li class="nav-item dropdown">
+    <a
+      class="nav-link dropdown-toggle"
+      href="#"
+      id="languageSwitcher"
+      role="button"
+      data-toggle="dropdown"
+      aria-haspopup="true"
+      aria-expanded="false"
+    >
+      {% case site.active_lang %}
+        {% when 'en' %}EN
+        {% when 'zh' %}中文
+        {% when 'ja' %}JP
+        {% when 'de' %}DE
+        {% else %}{{ site.active_lang | upcase }}
+      {% endcase %}
+    </a>
+    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="languageSwitcher">
+      {% for lang in site.languages %}
+        {% if lang == site.default_lang %}
+          {% assign lang_url = base_url %}
+        {% else %}
+          {% capture lang_url %}/{{ lang }}{{ base_url }}{% endcapture %}
+        {% endif %}
+        <a
+          class="dropdown-item {% if lang == site.active_lang %}active{% endif %}"
+          href="{{ lang_url | relative_url }}"
+        >
+          {% case lang %}
+            {% when 'en' %}English
+            {% when 'zh' %}中文
+            {% when 'ja' %}日本語
+            {% when 'de' %}Deutsch
+            {% else %}{{ lang }}
+          {% endcase %}
+        </a>
+      {% endfor %}
+    </div>
+  </li>
+{% endif %}

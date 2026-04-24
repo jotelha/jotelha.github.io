@@ -1,0 +1,11 @@
+nav:
+  about: 关于
+  publications: 发表作品
+  cv: 简历
+  repositories: 代码库
+
+ui:
+  search: 搜索
+  change_theme: 切换主题
+  toggle_nav: 展开导航
+  current: 当前页

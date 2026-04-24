@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+lang: en
 subtitle: Computational nanotribologist
 
 profile:
