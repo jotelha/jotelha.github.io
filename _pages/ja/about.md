@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ヨハネス・L・ヘルマン</p>
+    <p>ホルマン ヨハネス ラウリン</p>
     <p>名古屋大学</p>
     <p>大学院情報学研究科</p>
     <p>複雑系科学専攻</p>
