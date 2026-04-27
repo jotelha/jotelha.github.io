@@ -45,7 +45,7 @@ All personal content lives in these locations — everything else is theme infra
 
 | What | Where |
 |---|---|
-| Homepage bio | `_pages/about.md` |
+| Homepage bio | `_pages/about.md` (EN), `_pages/zh/about.md` (ZH), `_pages/ja/about.md` (JA) |
 | Publications | `_bibliography/papers.bib` (BibTeX) |
 | CV (structured) | `assets/json/resume.json` (primary; jsonresume.org schema) |
 | CV (YAML fallback) | `_data/cv.yml` (only used if resume.json absent — currently contains Einstein placeholder) |
@@ -55,6 +55,7 @@ All personal content lives in these locations — everything else is theme infra
 | Projects | `_projects/` (currently all template placeholders) |
 | Co-author highlighting | `_data/coauthors.yml` |
 | GitHub repos shown | `_data/repositories.yml` |
+| UI translation strings | `_data/lang/{en,zh,ja}.yml` |
 
 ## Key config
 
@@ -68,6 +69,39 @@ All personal content lives in these locations — everything else is theme infra
 ## Liquid templates
 
 Layouts are in `_layouts/`, partials in `_includes/`. They use Liquid syntax (`.liquid` extension). The CV page renders from `assets/json/resume.json` via `_layouts/cv.liquid` and `_includes/resume/`.
+
+## Multilingual support
+
+The site uses [jekyll-polyglot](https://polyglot.untra.io/) for EN/ZH/JA support (branch `feature/multilingual`). Languages are configured in `_config.yml` under `languages:`.
+
+**URL structure:** English at `/`, Chinese at `/zh/`, Japanese at `/ja/`.
+
+**How translated pages work:** Each language has its own page file with a `lang:` frontmatter key. Polyglot filters `site.pages` per build so only the correct language's pages appear in the nav. The original `_pages/*.md` files carry `lang: en` so they are excluded from non-English builds.
+
+| Language | Page files |
+|---|---|
+| English (default) | `_pages/*.md` (with `lang: en`) |
+| Chinese | `_pages/zh/*.md` (with `lang: zh`) |
+| Japanese | `_pages/ja/*.md` (with `lang: ja`) |
+
+**Adding a new translated page:** Create `_pages/{lang}/page-name.md` with matching `permalink:`, `nav_order:`, and `lang: {lang}` frontmatter. No other files need changing.
+
+**Adding a new language:** Add the language code to `languages:` in `_config.yml`, create `_data/lang/{code}.yml` for UI strings, and add a `{% when '{code}' %}` case to `_includes/language_switcher.liquid`.
+
+**UI translation strings** (`_data/lang/{en,zh,ja}.yml`) are available in templates as `site.data.lang[site.active_lang].ui.key` — not yet wired into layouts, reserved for future footer/button translation.
+
+## Rebasing `feature/multilingual` onto upstream al-folio
+
+The multilingual branch modifies exactly four theme files. After `git rebase main`, check each for conflicts and re-apply the listed one-line change if needed:
+
+| File | Change to re-apply |
+|---|---|
+| `_config.yml` | polyglot block after `lang: en` + `- jekyll-polyglot` in plugins list |
+| `_layouts/default.liquid` | `site.active_lang \| default: site.lang` in `<html lang="...">` |
+| `_includes/header.liquid` | `{% include language_switcher.liquid %}` before `</ul>` |
+| `Gemfile` | `gem 'jekyll-polyglot'` as first entry in `:jekyll_plugins` group |
+
+All files under `_pages/zh/`, `_pages/ja/`, `_data/lang/`, and `_includes/language_switcher.liquid` are pure additions and will never conflict during a rebase.
 
 ## Adding/updating content
 

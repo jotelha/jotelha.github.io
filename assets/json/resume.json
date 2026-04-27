@@ -6,10 +6,10 @@
     "url": "https://jotelha.github.io",
     "summary": "Computational nanotribologist",
     "location": {
-      "address": "Hansjakobstr. 30",
-      "postalCode": "79194",
-      "city": "Gundelfingen",
-      "countryCode": "Germany"
+      "address": "Furocho, Chikusa Ward",
+      "postalCode": "464-8601",
+      "city": "Nagoya, Aichi",
+      "countryCode": "JP"
     },
     "profiles": [
       {
@@ -108,7 +108,7 @@
       "location": "Freiburg, Germany",
       "url": "https://uni-freiburg.de",
       "area": "Microsystems Engineering",
-      "studyType": "Doctor of Philosophy (Ph. D.)",
+      "studyType": "Doctor of Natural Sciences (Dr. rer. nat.)",
       "startDate": "2017-07",
       "endDate": "2025-07",
       "score": "magna cum laude",
@@ -123,7 +123,7 @@
       "startDate": "2014-09",
       "endDate": "2017-01",
       "courses": [
-        "Master thesis (grade 1.3, German scale): Computational Modeling of Potential-Controlled Dodecyl Sulfate Ion Adsorption at the Aqueous and Non-aqueous SDS Solution – Stainless Steel Interface"
+        "Master thesis (grade 1.3, German scale): Computational Multiscale Modeling of the Bipolar Electrochemical Process"
       ]
     },
     {
@@ -188,6 +188,24 @@
   ],
   "awards": [
     {
+      "title": "Fugaku Junior Researchers (Small-Scale) Project",
+      "date": "2026-04",
+      "awarder": "RIKEN R-CCS",
+      "summary": "PI. 432,000 node-hours on Fugaku supercomputer. Project: The Influence of Molecular Design on Tribological Performance on the Nanoscale."
+    },
+    {
+      "title": "NINS RCCS Category A Project",
+      "date": "2026-04",
+      "awarder": "National Institutes of Natural Sciences (NINS), Research Center for Computational Science (RCCS)",
+      "summary": "PI. 80,000 CPU points on RCCS Okazaki cluster. Project: Sequence-Dependent Friction of Adsorbed Polymers: A MD Study of Polyalkylmethacrylate Lubricant Additives."
+    },
+    {
+      "title": "Joint Research Advancement Program (JRAP) 2026–2027",
+      "date": "2025-12",
+      "awarder": "Nagoya University – University of Freiburg",
+      "summary": "Co-applicant. Project: Integrated Multiscale Modelling and Experimental Study toward Optimal Design of Polymeric Friction Modifiers for Rough-Surface Lubrication."
+    },
+    {
       "title": "Trinational KTUR Summer School Entrepreneurship: Best Project Award",
       "date": "2022-09",
       "url": "https://www.youtube.com/watch?v=jgXHkJIGUOo"
@@ -212,6 +230,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Friction-Assisted Electrochemical Oxidation of Iridium Surfaces for Enhanced Catalysis",
+      "publisher": "Materials Horizons",
+      "releaseDate": "2026",
+      "url": "https://doi.org/10.1039/D6MH00036C",
+      "summary": "Friction-assisted electrochemical oxidation of iridium surfaces; tribochemistry at the electrified interface."
+    },
     {
       "name": " Friction of adsorption films with reproducible molecular dynamics ",
       "publisher": "University of Freiburg",

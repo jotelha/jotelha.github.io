@@ -1,0 +1,27 @@
+nav:
+  about: about
+  publications: publications
+  cv: cv
+  repositories: repositories
+
+ui:
+  search: Search
+  change_theme: Change theme
+  toggle_nav: Toggle navigation
+  current: current
+
+selected_publications: selected publications
+last_updated: "Last updated:"
+
+cv_section_basics: Basics
+cv_section_work: Work
+cv_section_education: Education
+cv_section_publications: Publications
+cv_section_skills: Skills
+cv_section_languages: Languages
+cv_section_awards: Awards
+cv_section_certificates: Certificates
+cv_section_interests: Interests
+cv_section_projects: Projects
+cv_section_volunteer: Volunteer
+cv_section_references: References

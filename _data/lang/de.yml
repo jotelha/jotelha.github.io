@@ -1,0 +1,27 @@
+nav:
+  about: Profil
+  publications: Publikationen
+  cv: Lebenslauf
+  repositories: Repositories
+
+ui:
+  search: Suchen
+  change_theme: Thema wechseln
+  toggle_nav: Navigation einblenden
+  current: Aktuelle Seite
+
+selected_publications: Ausgewählte Publikationen
+last_updated: "Zuletzt aktualisiert:"
+
+cv_section_basics: Allgemein
+cv_section_work: Berufserfahrung
+cv_section_education: Ausbildung
+cv_section_publications: Publikationen
+cv_section_skills: Fähigkeiten & Qualifikationen
+cv_section_languages: Sprachen
+cv_section_awards: Auszeichnungen und Förderungen
+cv_section_certificates: Zertifikate
+cv_section_interests: Interessen
+cv_section_projects: Projekte
+cv_section_volunteer: Ehrenamt
+cv_section_references: Referenzen

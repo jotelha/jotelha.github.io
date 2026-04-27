@@ -1,34 +1,108 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"pastewka":
+  - firstname: ["Lars", "L."]
+    url: https://pastewka.org
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"liu":
+  - firstname: ["Chenxu", "C.", "Chenxu (刘宸旭)"]
+    url: https://apps.ualberta.ca/directory/person/chenxu9
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"meng":
+  - firstname: ["Yonggang", "Y.", "Yonggang (孟永钢)"]
+    url: https://www.me.tsinghua.edu.cn/en/info/1267/2031.htm
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"seidl":
+  - firstname: ["Christian", "C."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"grigorev":
+  - firstname: ["Petr", "P."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"frerot":
+  - firstname: ["Lucas", "L."]
+    url: https://frerot.net/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"birks":
+  - firstname: ["Fraser", "F."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"gola":
+  - firstname: ["Adrien", "A."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"golebiowski":
+  - firstname: ["Jacek", "J."]
+
+"griesser":
+  - firstname: ["Jan", "J."]
+
+"klemenz":
+  - firstname: ["Andreas", "A."]
+
+"moras":
+  - firstname: ["Gianpietro", "G."]
+
+"nohring":
+  - firstname: ["Wolfram G.", "Wolfram", "W.", "W. G."]
+
+"oldenstaedt":
+  - firstname: ["Jonas A.", "Jonas", "J.", "J. A."]
+
+"patel":
+  - firstname: ["Punit", "P."]
+
+"reichenbach":
+  - firstname: ["Thomas", "T."]
+
+"rocke":
+  - firstname: ["Thomas", "T."]
+
+"shenoy":
+  - firstname: ["Lakshmi", "L."]
+
+"walter":
+  - firstname: ["Michael", "M."]
+
+"wengert":
+  - firstname: ["Simon", "S."]
+
+"kermode":
+  - firstname: ["James R.", "James", "J.", "J. R."]
+    url: https://warwick.ac.uk/fac/sci/eng/people/james_kermode/
+
+"yanes":
+  - firstname: ["Luis", "L."]
+
+"vazhappilly":
+  - firstname: ["Ashwin", "A."]
+
+"sanner":
+  - firstname: ["Antoine", "A."]
+    url: https://ifb.ethz.ch/the-institute/people/person-detail.MzIxMTE3.TGlzdC8xMDYwLC0xNTk5MjE4NDY3.html
+
+"holey":
+  - firstname: ["Hannes", "H."]
+    url: https://www.unimi.it/en/ugov/person/hannes-holey
+
+"hartley":
+  - firstname: ["Matthew", "M."]
+
+"olsson":
+  - firstname: ["Tjelvar S. G.", "Tjelvar", "T.", "T. S. G."]
+    url: https://tjelvarolsson.com/
+
+"pan":
+  - firstname: ["Hao", "H."]
+
+"han":
+  - firstname: ["Liyan", "L."]
+
+"cheng":
+  - firstname: ["Jian", "J."]
+
+"chen":
+  - firstname: ["Xin", "X."]
+
+"zeng":
+  - firstname: ["Hongbo", "H."]
+    url: https://apps.ualberta.ca/directory/person/hzeng2
+
+"tian":
+  - firstname: ["Yu", "Y."]
+    url: https://www.me.tsinghua.edu.cn/en/info/1267/2027.htm

@@ -58,8 +58,10 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
+      {% assign about_lang = site.active_lang | default: site.lang %}
+      {% assign about_lang_data = site.data.lang[about_lang] %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">{{ about_lang_data.selected_publications | default: 'selected publications' }}</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}

@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "name": "ホルマン ヨハネス ラウリン",
+    "image": "",
+    "email": "johannes.laurin@gmail.com",
+    "url": "https://jotelha.github.io",
+    "summary": "計算ナノトライボロジスト",
+    "location": {
+      "address": "Hansjakobstr. 30",
+      "postalCode": "79194",
+      "city": "Gundelfingen",
+      "countryCode": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jotelha",
+        "url": "https://www.linkedin.com/in/jotelha"
+      },
+      {
+        "network": "GitHub",
+        "username": "jotelha",
+        "url": "https://github.com/jotelha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "名古屋大学大学院情報学研究科複雑系科学専攻",
+      "position": "特任助教",
+      "url": "https://profs.provost.nagoya-u.ac.jp/html/100014482_en.html",
+      "startDate": "2025-10",
+      "summary": "高分子吸着膜の機械学習粗視化表現の開発。",
+      "highlights": ["粗視化", "機械学習", "分子動力学"]
+    },
+    {
+      "name": "フライブルク大学卓越研究クラスター livMatS",
+      "position": "データスチュワード",
+      "url": "https://www.livmats.uni-freiburg.de/de/news-press/making-data-accessible-recognizing-technological-potential",
+      "startDate": "2021-08",
+      "endDate": "2025-09",
+      "summary": "研究データ管理（RDM）ポリシーの策定・実施。RDMツールの開発・提供。",
+      "highlights": ["RDMポリシー", "DMP審査", "dtool & dserver開発"]
+    },
+    {
+      "institution": "フライブルク大学マイクロシステム工学科（IMTEK）シミュレーション研究室",
+      "position": "研究員",
+      "url": "https://pastewka.org",
+      "startDate": "2017-07",
+      "endDate": "2025-01",
+      "summary": "シミュレーション研究室の研究員として教育・研究業務に従事。",
+      "highlights": [
+        "教育",
+        "学生指導",
+        "研究費申請書作成",
+        "学術講演",
+        "国際共同研究",
+        "DFT計算",
+        "MD計算"
+      ]
+    },
+    {
+      "name": "Surface Design Solutions（リモート）",
+      "position": "共同創業者（パートタイム）",
+      "url": "https://surface.design",
+      "startDate": "2022-05",
+      "endDate": "2023-09",
+      "summary": "スタートアップ Surface Design Solutions の共同創業者兼CTO",
+      "highlights": ["MLOps", "DevOps", "顧客サポート"]
+    },
+    {
+      "position": "育児休暇",
+      "url": "https://github.com/jotelha/babypi",
+      "startDate": "2021-01",
+      "endDate": "2021-07",
+      "highlights": ["タイムマネジメント", "リーダーシップ"]
+    },
+    {
+      "name": "ドイツ大使館文化部とドイツ学術交流会（DAAD）の共同機関 — 在北京ドイツ高等教育入学資格評価センター（APS）",
+      "position": "面接官（複数回の任務、各2〜4ヶ月、合計11ヶ月）",
+      "url": "https://www.aps.org.cn",
+      "startDate": "2017-02",
+      "endDate": "2023-09",
+      "summary": "学歴の真正性確認のための面接を実施。",
+      "highlights": ["動機づけ面接", "会話計画・管理"]
+    },
+    {
+      "name": "北京語言大学および北京大学附属語学センター、北京、中国",
+      "position": "ドイツ語教師（パートタイム）",
+      "startDate": "2014-09",
+      "endDate": "2015-06",
+      "summary": "ドイツ留学準備コースの指導。",
+      "highlights": ["外国語としてのドイツ語教育", "講義"]
+    },
+    {
+      "name": "オーストラリア",
+      "position": "ワーキングホリデー",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+      "startDate": "2007-08",
+      "endDate": "2008-07",
+      "summary": "食肉加工・ホテル業などで就労。",
+      "highlights": ["柔軟性", "適応力", "コミュニケーション"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "フライブルク大学マイクロシステム工学科（IMTEK）シミュレーション研究室",
+      "location": "フライブルク、ドイツ",
+      "url": "https://uni-freiburg.de",
+      "area": "マイクロシステム工学",
+      "studyType": "博士（工学）",
+      "startDate": "2017-07",
+      "endDate": "2025-07",
+      "score": "magna cum laude",
+      "courses": ["博士論文：再現性ある分子動力学による吸着膜の摩擦"]
+    },
+    {
+      "institution": "清華大学",
+      "location": "北京、中国",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "機械工学・工学サイエンス",
+      "studyType": "清華大学とベルリン工科大学の共同ダブルディグリー修士プログラム",
+      "startDate": "2014-09",
+      "endDate": "2017-01",
+      "courses": [
+        "修士論文（成績1.3、ドイツ式評価）：水溶液および非水溶液SDS溶液–ステンレス鋼界面における電位制御ドデシル硫酸イオン吸着の計算モデリング"
+      ]
+    },
+    {
+      "institution": "清華大学",
+      "location": "北京、中国",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "機械工学",
+      "studyType": "DAAD交換留学年間奨学金",
+      "startDate": "2013-09",
+      "endDate": "2014-08"
+    },
+    {
+      "institution": "ベルリン工科大学",
+      "location": "ベルリン、ドイツ",
+      "url": "https://www.tu.berlin",
+      "area": "工学サイエンス",
+      "studyType": "修士（工学）",
+      "startDate": "2012-09",
+      "endDate": "2017-03",
+      "score": "1.6",
+      "courses": ["メカトロニクス", "数値計算・シミュレーション"]
+    },
+    {
+      "institution": "ベルリン自由大学",
+      "location": "ベルリン、ドイツ",
+      "url": "https://www.fu-berlin.de",
+      "area": "物理学",
+      "studyType": "学士（理学）",
+      "startDate": "2008-09",
+      "endDate": "2012-09",
+      "score": "2.0",
+      "courses": ["学士論文（成績1.0、ドイツ式評価）：EPRラインシェイプスペクトルの大規模並列シミュレーション"]
+    },
+    {
+      "institution": "国立中山大学",
+      "location": "高雄、台湾",
+      "url": "https://www.nsysu.edu.tw",
+      "area": "中国語",
+      "studyType": "DAAD語学留学年間奨学金・華語奨学金",
+      "startDate": "2010-09",
+      "endDate": "2011-09"
+    },
+    {
+      "institution": "アムステルダム自由大学",
+      "location": "アムステルダム、オランダ",
+      "url": "https://vu.nl/en",
+      "area": "物理学",
+      "studyType": "エラスムス交換留学",
+      "startDate": "2009-09",
+      "endDate": "2010-06"
+    },
+    {
+      "institution": "カンペ・ギムナジウム・ホルツミンデン",
+      "location": "ホルツミンデン、ドイツ",
+      "url": "https://www.campe-hol.de",
+      "studyType": "アビトゥーア（ドイツ高校卒業資格）",
+      "startDate": "2000-09",
+      "endDate": "2007-06",
+      "score": "1.3",
+      "courses": ["数学", "ラテン語", "物理", "政治"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "三カ国KTUR起業家精神サマースクール：最優秀プロジェクト賞",
+      "date": "2022-09",
+      "url": "https://www.youtube.com/watch?v=jgXHkJIGUOo"
+    },
+    {
+      "title": "第6回世界トライボロジー会議：最優秀ポスター賞",
+      "date": "2017-09"
+    },
+    {
+      "title": "DAAD交換留学年間奨学金",
+      "date": "2013-09",
+      "awarder": "ドイツ学術交流会（DAAD）",
+      "url": "https://www.daad.de",
+      "summary": "中国北京の清華大学での学業。"
+    },
+    {
+      "title": "DAAD語学留学年間奨学金・華語奨学金",
+      "date": "2010-09",
+      "awarder": "ドイツ学術交流会（DAAD）および台湾教育省",
+      "url": "https://en.wikipedia.org/wiki/Huayu_Enrichment_Scholarship",
+      "summary": "台湾高雄の国立中山大学での語学研修。"
+    }
+  ],
+  "publications": [
+    {
+      "name": "再現性ある分子動力学による吸着膜の摩擦",
+      "publisher": "フライブルク大学",
+      "releaseDate": "2025-07-15",
+      "url": "https://doi.org/10.6094/UNIFR/269291",
+      "summary": "累積的博士論文。"
+    },
+    {
+      "name": "dtoolとdserver：発見可能なデータのための柔軟なエコシステム",
+      "publisher": "PLOS ONE",
+      "releaseDate": "2024-06-25",
+      "url": "https://doi.org/10.1371/journal.pone.0306100",
+      "summary": "dtoolエコシステムは、個人による規格化されていないデータ管理と、厳格なメタデータ要件を持つFAIRプラットフォームソリューションのギャップを埋めます。"
+    },
+    {
+      "name": "matscipy：Pythonによる原子スケール材料科学",
+      "publisher": "Journal of Open Source Software",
+      "releaseDate": "2024-01-28",
+      "url": "https://doi.org/10.21105/joss.05668",
+      "summary": "matscipy は、材料科学の応用（破壊、塑性、トライボロジー、電気化学）向けのツールを実装します。"
+    },
+    {
+      "name": "SDS界面活性剤膜の滑りに関する分子シミュレーション",
+      "publisher": "The Journal of Chemical Physics",
+      "releaseDate": "2023-06-28",
+      "url": "https://doi.org/10.1063/5.0153397",
+      "summary": "分子動力学シミュレーションを用いて、金表面に物理吸着したアニオン性界面活性剤ドデシル硫酸ナトリウムの単分子層と半円筒形凝集体の摩擦応答を研究しました。"
+    },
+    {
+      "name": "電気調整可能な潤滑の分子シミュレーション：水系電解質中の粘度と壁面スリップ",
+      "publisher": "Tribology Letters",
+      "releaseDate": "2021-01-30",
+      "url": "https://doi.org/10.1007/s11249-020-01395-6",
+      "summary": "分子動力学シミュレーションを用いて、静電ポテンシャル差下にある水潤滑金電極の摩擦応答を研究しました。"
+    }
+  ],
+  "skills": [
+    {
+      "name": "シミュレーション手法",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "FEM：COMSOL、ANSYS、FEniCSx",
+        "MD：GROMACS、LAMMPS",
+        "DFTB：Atomistica",
+        "DFT：GPAW、CASTEP",
+        "機械学習（GPR、GPC）：gpflow、sklearn",
+        "ワークフロー管理：FireWorks、snakemake",
+        "データ管理：dtool & dserver"
+      ]
+    },
+    {
+      "name": "機械学習",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["ガウス過程回帰・分類（GPR、GPC）：gpflow、sklearn"]
+    },
+    {
+      "name": "ビッグデータ",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["ワークフロー管理：FireWorks、snakemake", "データ管理：dtool & dserver"]
+    },
+    {
+      "name": "可視化",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["matplotlib", "seaborn", "OVITO", "VMD", "PyMOL"]
+    },
+    {
+      "name": "DevOpsスキル",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GitHub CI/CD",
+        "OpenStack",
+        "Docker",
+        "Podman",
+        "Singularity",
+        "Make",
+        "CMake",
+        "EasyBuild",
+        "lmod",
+        "Slurm",
+        "MongoDB",
+        "Flask",
+        "REST API"
+      ]
+    },
+    {
+      "name": "プログラミング言語",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "C/C++", "tcl", "Lua", "MATLAB", "Mathematica", "LaTeX"]
+    },
+    {
+      "name": "運転免許",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["バイク", "自動車"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "ドイツ語",
+      "fluency": "母語",
+      "icon": ""
+    },
+    {
+      "language": "英語",
+      "fluency": "流暢",
+      "icon": ""
+    },
+    {
+      "language": "中国語",
+      "fluency": "流暢",
+      "icon": ""
+    }
+  ]
+}

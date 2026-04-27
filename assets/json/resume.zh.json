@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "name": "约翰内斯·L·赫尔曼",
+    "image": "",
+    "email": "johannes.laurin@gmail.com",
+    "url": "https://jotelha.github.io",
+    "summary": "计算纳米摩擦学家",
+    "location": {
+      "address": "Hansjakobstr. 30",
+      "postalCode": "79194",
+      "city": "Gundelfingen",
+      "countryCode": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jotelha",
+        "url": "https://www.linkedin.com/in/jotelha"
+      },
+      {
+        "network": "GitHub",
+        "username": "jotelha",
+        "url": "https://github.com/jotelha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "名古屋大学信息学研究生院复杂系统科学系",
+      "position": "特聘助理教授",
+      "url": "https://profs.provost.nagoya-u.ac.jp/html/100014482_en.html",
+      "startDate": "2025-10",
+      "summary": "聚合物吸附膜的机器学习粗粒化表示的开发。",
+      "highlights": ["粗粒化方法", "机器学习", "分子动力学"]
+    },
+    {
+      "name": "弗莱堡大学卓越研究集群 livMatS",
+      "position": "数据管理员",
+      "url": "https://www.livmats.uni-freiburg.de/de/news-press/making-data-accessible-recognizing-technological-potential",
+      "startDate": "2021-08",
+      "endDate": "2025-09",
+      "summary": "研究数据管理（RDM）政策的制定与实施。RDM工具的开发与提供。",
+      "highlights": ["RDM政策", "数据管理计划审核", "dtool & dserver开发"]
+    },
+    {
+      "institution": "弗莱堡大学微系统工程系（IMTEK）仿真研究组",
+      "position": "科研人员",
+      "url": "https://pastewka.org",
+      "startDate": "2017-07",
+      "endDate": "2025-01",
+      "summary": "仿真研究组科研人员，承担教学与科研职责。",
+      "highlights": [
+        "教学",
+        "学生指导",
+        "项目申请书撰写",
+        "学术汇报",
+        "国际合作",
+        "DFT模拟",
+        "MD模拟"
+      ]
+    },
+    {
+      "name": "Surface Design Solutions（远程）",
+      "position": "联合创始人（兼职）",
+      "url": "https://surface.design",
+      "startDate": "2022-05",
+      "endDate": "2023-09",
+      "summary": "Surface Design Solutions初创公司联合创始人兼CTO",
+      "highlights": ["ML运维", "DevOps", "客户支持"]
+    },
+    {
+      "position": "育儿假",
+      "url": "https://github.com/jotelha/babypi",
+      "startDate": "2021-01",
+      "endDate": "2021-07",
+      "highlights": ["时间管理", "领导力"]
+    },
+    {
+      "name": "德国驻华大使馆文化处与德国学术交流中心（DAAD）联合机构——德国高校申请评估中心，北京，中国",
+      "position": "面试官（多次任务，每次2至4个月，共11个月）",
+      "url": "https://www.aps.org.cn",
+      "startDate": "2017-02",
+      "endDate": "2023-09",
+      "summary": "开展学术资质真实性核查面试。",
+      "highlights": ["动机式访谈", "对话规划与管理"]
+    },
+    {
+      "name": "北京语言大学及北京大学附属语言中心，北京，中国",
+      "position": "德语教师（兼职）",
+      "startDate": "2014-09",
+      "endDate": "2015-06",
+      "summary": "讲授赴德留学预备课程。",
+      "highlights": ["对外德语教学", "授课"]
+    },
+    {
+      "name": "澳大利亚",
+      "position": "打工度假",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-417",
+      "startDate": "2007-08",
+      "endDate": "2008-07",
+      "summary": "从事肉类加工和酒店行业等工作。",
+      "highlights": ["灵活性", "适应能力", "沟通能力"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "弗莱堡大学微系统工程系（IMTEK）仿真研究组",
+      "location": "弗莱堡，德国",
+      "url": "https://uni-freiburg.de",
+      "area": "微系统工程",
+      "studyType": "工学博士",
+      "startDate": "2017-07",
+      "endDate": "2025-07",
+      "score": "magna cum laude",
+      "courses": ["论文：具有可重复性分子动力学的吸附膜摩擦"]
+    },
+    {
+      "institution": "清华大学",
+      "location": "北京，中国",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "机械工程／工程科学",
+      "studyType": "清华大学与柏林工业大学双学位硕士项目",
+      "startDate": "2014-09",
+      "endDate": "2017-01",
+      "courses": [
+        "硕士论文（成绩1.3，德国评分制）：水溶液及非水溶液SDS溶液–不锈钢界面处电位控制十二烷基硫酸根离子吸附的计算模型"
+      ]
+    },
+    {
+      "institution": "清华大学",
+      "location": "北京，中国",
+      "url": "https://www.tsinghua.edu.cn",
+      "area": "机械工程",
+      "studyType": "DAAD交换生年度奖学金",
+      "startDate": "2013-09",
+      "endDate": "2014-08"
+    },
+    {
+      "institution": "柏林工业大学",
+      "location": "柏林，德国",
+      "url": "https://www.tu.berlin",
+      "area": "工程科学",
+      "studyType": "理学硕士",
+      "startDate": "2012-09",
+      "endDate": "2017-03",
+      "score": "1.6",
+      "courses": ["机电一体化", "数值方法与仿真"]
+    },
+    {
+      "institution": "柏林自由大学",
+      "location": "柏林，德国",
+      "url": "https://www.fu-berlin.de",
+      "area": "物理",
+      "studyType": "理学学士",
+      "startDate": "2008-09",
+      "endDate": "2012-09",
+      "score": "2.0",
+      "courses": ["学士论文（成绩1.0，德国评分制）：EPR线型谱的大规模并行模拟"]
+    },
+    {
+      "institution": "国立中山大学",
+      "location": "高雄，台湾",
+      "url": "https://www.nsysu.edu.tw",
+      "area": "汉语",
+      "studyType": "DAAD语言学习年度奖学金／华语奖学金",
+      "startDate": "2010-09",
+      "endDate": "2011-09"
+    },
+    {
+      "institution": "阿姆斯特丹自由大学",
+      "location": "阿姆斯特丹，荷兰",
+      "url": "https://vu.nl/en",
+      "area": "物理",
+      "studyType": "伊拉斯谟交换项目",
+      "startDate": "2009-09",
+      "endDate": "2010-06"
+    },
+    {
+      "institution": "霍尔茨明登坎培文理中学",
+      "location": "霍尔茨明登，德国",
+      "url": "https://www.campe-hol.de",
+      "studyType": "Abitur（德国高中毕业文凭）",
+      "startDate": "2000-09",
+      "endDate": "2007-06",
+      "score": "1.3",
+      "courses": ["数学", "拉丁语", "物理", "政治"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "三国KTUR暑期创业学校：最佳项目奖",
+      "date": "2022-09",
+      "url": "https://www.youtube.com/watch?v=jgXHkJIGUOo"
+    },
+    {
+      "title": "第六届世界摩擦学大会：最佳海报奖",
+      "date": "2017-09"
+    },
+    {
+      "title": "DAAD交换研究年度奖学金",
+      "date": "2013-09",
+      "awarder": "德国学术交流中心（DAAD）",
+      "url": "https://www.daad.de",
+      "summary": "在中国北京清华大学学习。"
+    },
+    {
+      "title": "DAAD语言学习年度奖学金／华语奖学金",
+      "date": "2010-09",
+      "awarder": "德国学术交流中心（DAAD）和台湾教育部",
+      "url": "https://en.wikipedia.org/wiki/Huayu_Enrichment_Scholarship",
+      "summary": "在台湾高雄国立中山大学进行语言学习。"
+    }
+  ],
+  "publications": [
+    {
+      "name": "具有可重复性分子动力学的吸附膜摩擦",
+      "publisher": "弗莱堡大学",
+      "releaseDate": "2025-07-15",
+      "url": "https://doi.org/10.6094/UNIFR/269291",
+      "summary": "累积性博士学位论文。"
+    },
+    {
+      "name": "dtool与dserver：可发现数据的灵活生态系统",
+      "publisher": "PLOS ONE",
+      "releaseDate": "2024-06-25",
+      "url": "https://doi.org/10.1371/journal.pone.0306100",
+      "summary": "dtool生态系统架起了个人无规范化数据管理与具有严格元数据要求的FAIR平台解决方案之间的桥梁。"
+    },
+    {
+      "name": "matscipy：基于Python的原子尺度材料科学计算",
+      "publisher": "Journal of Open Source Software",
+      "releaseDate": "2024-01-28",
+      "url": "https://doi.org/10.21105/joss.05668",
+      "summary": "matscipy实现了材料科学应用工具，涵盖断裂、塑性、摩擦学和电化学领域。"
+    },
+    {
+      "name": "SDS表面活性剂膜滑动的分子模拟",
+      "publisher": "The Journal of Chemical Physics",
+      "releaseDate": "2023-06-28",
+      "url": "https://doi.org/10.1063/5.0153397",
+      "summary": "我们使用分子动力学模拟研究阴离子表面活性剂十二烷基硫酸钠单分子层和半圆柱形聚集体在金表面物理吸附时的摩擦响应。"
+    },
+    {
+      "name": "电可调润滑的分子模拟：水溶液电解质中的黏度与壁面滑移",
+      "publisher": "Tribology Letters",
+      "releaseDate": "2021-01-30",
+      "url": "https://doi.org/10.1007/s11249-020-01395-6",
+      "summary": "我们使用分子动力学模拟研究水润滑金电极在静电势差作用下的摩擦响应。"
+    }
+  ],
+  "skills": [
+    {
+      "name": "模拟方法",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "有限元法（FEM）：COMSOL、ANSYS、FEniCSx",
+        "分子动力学（MD）：GROMACS、LAMMPS",
+        "密度泛函紧束缚法（DFTB）：Atomistica",
+        "密度泛函理论（DFT）：GPAW、CASTEP",
+        "机器学习（GPR、GPC）：gpflow、sklearn",
+        "工作流管理：FireWorks、snakemake",
+        "数据管理：dtool & dserver"
+      ]
+    },
+    {
+      "name": "机器学习",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["高斯过程回归与分类（GPR、GPC）：gpflow、sklearn"]
+    },
+    {
+      "name": "大数据",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["工作流管理：FireWorks、snakemake", "数据管理：dtool & dserver"]
+    },
+    {
+      "name": "可视化",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["matplotlib", "seaborn", "OVITO", "VMD", "PyMOL"]
+    },
+    {
+      "name": "DevOps技能",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "GitHub CI/CD",
+        "OpenStack",
+        "Docker",
+        "Podman",
+        "Singularity",
+        "Make",
+        "CMake",
+        "EasyBuild",
+        "lmod",
+        "Slurm",
+        "MongoDB",
+        "Flask",
+        "REST API"
+      ]
+    },
+    {
+      "name": "编程语言",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Python", "C/C++", "tcl", "Lua", "MATLAB", "Mathematica", "LaTeX"]
+    },
+    {
+      "name": "驾驶执照",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["摩托车", "汽车"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "德语",
+      "fluency": "母语",
+      "icon": ""
+    },
+    {
+      "language": "英语",
+      "fluency": "流利",
+      "icon": ""
+    },
+    {
+      "language": "中文",
+      "fluency": "流利",
+      "icon": ""
+    }
+  ]
+}
