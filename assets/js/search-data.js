@@ -413,7 +413,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/2025-07-30-CV-academic-en.pdf", "_blank");
+          window.open("/assets/pdf/2026-04-02-CV-academic-with-research-highlights-en.pdf", "_blank");
         },
       },{
         id: 'social-email',
