@@ -32,8 +32,8 @@
         {% else %}
           {% capture lang_url %}/{{ lang }}{{ base_url }}{% endcapture %}
         {% endif %}
-        {% comment %}hreflang must immediately precede href on same line so polyglot's negative lookbehind skips rewriting the default-lang root URL{% endcomment %}
-        <a class="dropdown-item {% if lang == site.active_lang %}active{% endif %}" hreflang="{{ lang }}" href="{{ site.url }}{{ site.baseurl }}{{ lang_url }}">
+        {% comment %}Use static_href so polyglot's post-processor restores href without adding the active-language prefix{% endcomment %}
+        <a class="dropdown-item {% if lang == site.active_lang %}active{% endif %}" hreflang="{{ lang }}" {% static_href %}href="{{ lang_url }}"{% endstatic_href %}>
           {% case lang %}
             {% when 'en' %}English
             {% when 'zh' %}中文
