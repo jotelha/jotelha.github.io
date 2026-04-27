@@ -16,7 +16,7 @@ keywords: tribology, molecular dynamics, data science # add your own keywords or
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
 # Jekyll Polyglot — multilingual support
-languages: ["en", "zh", "ja"]
+languages: ["en", "zh", "ja", "de"]
 default_lang: "en"
 exclude_from_localization: ["assets", "_sass", "_scripts", "node_modules", "vendor"]
 parallel_localization: false
@@ -667,6 +667,8 @@ jekyll_get_json:
     json: assets/json/resume.zh.json
   - data: resume_ja
     json: assets/json/resume.ja.json
+  - data: resume_de
+    json: assets/json/resume.de.json
 
 jsonresume:
   - basics
