@@ -155,6 +155,39 @@ Never translate the author's name via DeepL. Always substitute:
 - Chinese: `何约翰`
 - Japanese: `ホルマン ヨハネス ラウリン`
 
+### DE-specific terminology rules
+
+These rules are applied after DeepL and after CV reconciliation. They take precedence over both.
+
+**Voice:** The DE about page uses first person (ich/meine/…). DeepL produces third person by default — restructure accordingly. Fixed phrasings:
+- Opening: "Ich bin ein auf numerische Modelle spezialisierter Nanotribologe und entwickle …" (not "Ich bin computationaler Nanotribologe")
+- Current research heading: "Meine aktuelle Forschung an der Nagoya University umfasst:" (not "konzentriert sich auf")
+- Earlier work heading: "Frühere Arbeiten umfassen:" (not "Zu meinen früheren Arbeiten zählen:")
+
+**Terms kept in English** (never translate):
+- "Coarse-Graining" (not "Vergröberung")
+- "Coarse-Grained MD (CG-MD)" (not "vergröberte MD")
+- All institution and lab names: "Zhang lab", "Department of Complex Systems Science", "Graduate School of Informatics", "Nagoya University" — even in running prose
+
+**Fixed DE renderings** (override DeepL):
+
+| English | German |
+|---|---|
+| Computational nanotribologist | Computationaler Nanotribologe |
+| data-driven | datengetrieben (not datengesteuert) |
+| molecular lubricants | molekulare Schmierstoffe (not Schmiermittel) |
+| electrotunable / electro-tunable | elektrisch steuerbar (not elektrosteuerbar) |
+| multiscale friction modeling | multiskalige Reibungsmodellierung |
+| Specially Appointed Assistant Professor | Assistenzprofessor (Sonderberufung) |
+| load (tribology) | Last (not Belastung) |
+| FAIR research data management | FAIRes Forschungsdatenmanagement (FDM) |
+| Co-developed … | Mitentwicklung von … (noun form, not "Mitentwickelt") |
+| Poisson–Nernst–Planck (dashes) | Poisson–Nernst–Planck (en-dashes, as in CV) |
+| MD evidence for … | MD-Nachweis … (not MD-Beweise) |
+| potential-driven | potenzialgesteuert (not potenzialgetrieben) |
+
+**Punctuation:** Use em-dashes (—) in list items, not hyphens (-).
+
 ### Step 4 — Report
 
 After editing each language file, report every terminology substitution in the format:
