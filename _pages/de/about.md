@@ -32,18 +32,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Computationaler Nanotribologe, der multiskalige Simulationsmethoden und FAIR-Dateninfrastrukturen für das rationale, datengetriebene Design molekularer Schmierstoffe entwickelt. Forschungsschwerpunkte: Molekulardynamik von Tensid- und Polymeradsorptionsfilmen, elektrisch steuerbare Schmierung, multiskalige Reibungsmodellierung und maschinell-lernbasiertes inverses Schmierstoffdesign.
+Ich bin ein auf numerische Modelle spezialisierter Nanotribologe und entwickle multiskalige Simulationsmethoden und FAIR-Dateninfrastruktur für das rationale, datengetriebene Design molekularer Schmierstoffe. Meine Forschungsinteressen umfassen die Molekulardynamik (MD) von Tensid- und Polymeradsorptionsfilmen, elektrisch steuerbare Schmierung und multiskalige Reibungsmodellierung.
 
-Aktuelle Forschungsprojekte an der Universität Nagoya:
+Meine aktuelle Forschung an der Nagoya University umfasst:
 
-- Aufbau einer **Hochdurchsatz-Multiskalensimulationsplattform** für die Nanotribologie, die atomistische MD mit Kontinuums-FEM über Gaußsche Prozess-Surrogatmodelle verknüpft, um KI-gerechte Reibungsdatensätze zu generieren (JRAP 2026–27; Fugaku 2026–27; NINS RCCS 2026).
-- **Sequenzabhängige Reibung von Polyalkylmethacrylat-(PAMA-)Copolymeren** — all-atomistische und vergröberte MD zur Vorhersage des Einflusses von Block- vs. statistischer Architektur auf die Grenzflächenschmierleistung.
-- **Elektrisch steuerbare Tensidreibung** — parametrische MD von SDS- und CTAB-Filmen auf Goldelektroden unter angelegter Spannung (Kollaboration mit Prof. Meng Yonggang, Tsinghua-Universität, und Dr. Chenxu Liu, Universität Alberta).
+- **Sequenzabhängige Reibung von Polyalkylmethacrylat-(PAMA-)Copolymeren** — All-Atom-MD zur Vorhersage, wie Block- vs. statistische Architektur das Verhalten einzelner Polymere unter Scherung steuert.
+- **Coarse-Graining von Polyalkylmethacrylat-(PAMA-)Copolymeren** — Coarse-Grained-MD (CG-MD) zur Vorhersage, wie Block- vs. statistische Architektur die Schmierleistung vollständig formulierter PAMA-Adsorptionsfilme kontrolliert.
+- **Kettenlängenabhängige Reibung von Phospholipid-Adsorptionsfilmen** — All-Atom-MD zur Vorhersage, wie die Kettenlänge von DSPC und DLPC das Verhalten bei Eindrücken und Gleiten kontrolliert.
 
-Frühere Forschung (Doktorarbeit, Universität Freiburg, 2017–2025):
+Frühere Arbeiten umfassen:
 
-- All-Atom-MD der Reibung von SDS-Tensidfilmen über Konzentration, Morphologie, Last und Gleitrichtung — die erste hochdimensionale parametrische Reibungskarte eines wässrigen Tensidsystems [_J. Chem. Phys._ 158, 244703 (2023)](https://doi.org/10.1063/5.0153397).
+- All-Atom-MD der Reibung von SDS-Tensidfilmen in Abhängigkeit von Konzentration, Morphologie, Last und Gleitrichtung — die erste hochdimensionale parametrische Reibungskarte eines wässrigen Tensidsystems [_J. Chem. Phys._ 158, 244703 (2023)](https://doi.org/10.1063/5.0153397).
 - Elektrisch steuerbare Schmierung: MD-Nachweis potenzialgesteuerter Reibungsasymmetrie an Goldelektroden [_Tribol. Lett._ 69, 22 (2021)](https://doi.org/10.1007/s11249-020-01395-6).
-- Mitentwicklung von [_dtool & dserver_](https://www.dtool.dev) — leichtgewichtiges FAIR-Forschungsdatenmanagement für großskalige Simulationskampagnen [_PLOS ONE_ 19, e0306100 (2024)](https://doi.org/10.1371/journal.pone.0306100).
+- FEM-Modellierung der elektrochemischen Doppelschicht an rauen Elektrodenoberflächen: Kontinuums-Poisson–Nernst–Planck-Simulationen, die die Oberflächentopographie mit lokalen Reaktantenkonzentrationen in Beziehung setzen [_Mater. Horiz._ (2026)](https://doi.org/10.1039/D6MH00036C).
+- Mitentwicklung von [_dtool & dserver_](https://www.dtool.dev) — leichtgewichtiges FAIRes Forschungsdatenmanagement (FDM) [_PLOS ONE_ 19, e0306100 (2024)](https://doi.org/10.1371/journal.pone.0306100).
 
-Derzeit tätig als Specially Appointed Assistant Professor (Sonderberufung) im [Zhang-Labor](https://zhang-laboratory.org/en), [Fachbereich Komplexe Systemwissenschaften](https://www.i.nagoya-u.ac.jp/en/gs/cpss/), [Graduiertenschule für Informatik](https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/), [Universität Nagoya](https://en.nagoya-u.ac.jp/).
+Derzeit bin ich als Assistenzprofessor (Sonderberufung) im [Zhang lab](https://zhang-laboratory.org/en), [Department of Complex Systems Science](https://www.i.nagoya-u.ac.jp/en/gs/cpss/), [Graduate School of Informatics](https://www.i.nagoya-u.ac.jp/en/graduate-school-of-informatics/), [Nagoya University](https://en.nagoya-u.ac.jp/) tätig.
