@@ -188,6 +188,57 @@ These rules are applied after DeepL and after CV reconciliation. They take prece
 
 **Punctuation:** Use em-dashes (—) in list items, not hyphens (-).
 
+### ZH-specific terminology rules
+
+These rules are applied after DeepL and after CV reconciliation. They take precedence over both.
+
+**Fixed name:** Profile block must use `何约翰` (never the phonetic `约翰内斯·L·赫尔曼`).
+
+**Markdown fixes:** DeepL frequently misplaces bold markers in Chinese, placing `**` after the noun phrase instead of before it. Always move markers to the start: `**聚烷基…的序列依赖性摩擦**` not `聚烷基…的**序列依赖性摩擦**`.
+
+**Fixed ZH renderings** (override DeepL):
+
+| English | Chinese |
+|---|---|
+| Specially Appointed Assistant Professor | 特任助理教授 (not 特聘助理教授; CV term) |
+| electrotunable lubrication | 电控润滑 (not 电可调润滑) |
+| Co-developed … | 联合开发 (not 共同开发) |
+| continuum … simulations | 连续体…模拟 (not 连续…模拟) |
+| electrochemical double layer | 电化学双电层 (not 电化学双层) |
+| Poisson–Nernst–Planck | Poisson–Nernst–Planck (keep English with en-dashes; CV does this) |
+| coarse-graining (method) | 粗粒化 (not 粗粒度) |
+| first high-dimensional parametric friction map | 首个高维参数化摩擦图谱 (not 首个高维参数摩擦图) |
+| Graduate School of Informatics | 信息学研究生院 (not 信息学研究科) |
+
+**Punctuation:** Use `。` (Chinese full stop) at end of list items, not `.`. Use ` — ` (em-dash) in list items, not ` - ` or `--`.
+
+**Link formatting:** DeepL sometimes inserts a space before the URL in markdown links (`] (`). Always remove it: `](`.
+
+### JA-specific terminology rules
+
+These rules are applied after DeepL. No CV PDF reference exists for JA; DeepL output is accepted as-is except for the corrections below.
+
+**Fixed name:** Profile block must use `ホルマン ヨハネス ラウリン`.
+
+**Markdown fixes:** Same misplaced bold-marker issue as ZH — move `**` to the front of the noun phrase.
+
+**Fixed JA renderings** (override DeepL):
+
+| English | Japanese |
+|---|---|
+| electrotunable lubrication | 電気制御可能な潤滑 (not エレクトロチューナブル潤滑) |
+| FAIR data infrastructure | FAIRデータインフラ (not FAIRデータ基盤) |
+| rational, data-driven design | 合理的・データ駆動型設計 |
+| Poisson–Nernst–Planck | Poisson–Nernst–Planck (keep Latin with en-dashes) |
+| coarse-graining (method) | 粗視化 |
+| coarse-grained MD | 粗視化MD |
+| Earlier work | 以前の研究 (heading: "以前の研究：") |
+| Specially Appointed Assistant Professor | 特任助教 |
+| Graduate School of Informatics | 大学院情報学研究科 |
+| Department of Complex Systems Science | 複雑系科学専攻 |
+
+**Punctuation:** Use `。` at end of list items. Use ` — ` (em-dash) in list items, not ` - `.
+
 ### Step 4 — Report
 
 After editing each language file, report every terminology substitution in the format:
