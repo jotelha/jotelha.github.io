@@ -36,9 +36,9 @@ Computational tribologist developing multiscale simulation methods and FAIR data
 
 Current research at Nagoya University focuses on:
 
-- **Sequence-dependent friction of polyalkylmethacrylate (PAMA) copolymers** — all-atom MD to predict how block vs. statistical architecture controls lubrication performance.
-- **Coarse-graining of polyalkylmethacrylate (PAMA) copolymers** — all-atom and coarse-grained MD to predict how block vs. statistical architecture controls lubrication performance.
-- **Chain length-dependent friction of phospholipid (DSPC, DLPC) adsorption films** — all-atom MD to predict how DSPC and DLPC chain-length controls behavior under indentation and sliding.
+- **Sequence-dependent friction of polyalkylmethacrylate (PAMA) copolymers** — all-atom MD to predict how block vs. statistical architecture controls the behavior of single polymers under shear.
+- **Coarse-graining of polyalkylmethacrylate (PAMA) copolymers** — coarse-grained MD to predict how block vs. statistical architecture controls the lubrication performance of fully formulated PAMA adsorption films.
+- **Chain length-dependent friction of phospholipid adsorption films** — all-atom MD to predict how DSPC and DLPC chain length controls behavior under indentation and sliding.
 
 Earlier work includes:
 
