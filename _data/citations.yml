@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: A Multiscale Model of the Bipolar Electrode-SDS Adsorption on Stainless Steel
     year: Unknown Year
   j9n8S9QAAAAJ:IjCSPb-OGe4C:
-    citations: 15
+    citations: 16
     title: 'Molecular simulations of electrotunable lubrication: Viscosity and wall slip in aqueous electrolytes'
     year: '2021'
   j9n8S9QAAAAJ:Tyk-4Ss8FVUC:
@@ -43,14 +43,14 @@ papers:
     year: '2024'
   j9n8S9QAAAAJ:kNdYIx-mwKoC:
     citations: 0
-    title: Friction-Assisted Electrochemical Oxidation of Iridium Surfaces for Enhanced Catalysis
+    title: Friction-assisted electrochemical oxidation of iridium surfaces for enhanced catalysis
     year: '2026'
   j9n8S9QAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Multiscale Modeling of Bipolar Electrochemistry
     year: Unknown Year
   j9n8S9QAAAAJ:ufrVoPGSRksC:
-    citations: 29
+    citations: 30
     title: 'matscipy: materials science at the atomic scale with Python'
     year: '2024'
   j9n8S9QAAAAJ:zYLM7Y9cAGgC:
