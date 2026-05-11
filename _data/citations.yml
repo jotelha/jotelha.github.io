@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-11'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 16
     title: 'Molecular simulations of electrotunable lubrication: Viscosity and wall slip in aqueous electrolytes'
     year: '2021'
+  j9n8S9QAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: livMatS Research Data Management Concept with a focus on the didactic use of dtool
+    year: '2022'
   j9n8S9QAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: 'Morphology, concentration, potential: Exploring tunable adsorption film friction with molecular dynamics'
