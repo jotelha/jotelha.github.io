@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-20'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -38,11 +38,15 @@ papers:
     title: Finite element simulations of the electrochemical double layer structure under microscopic probes of various geometries
     year: '2021'
   j9n8S9QAAAAJ:YsMSGLbcyi4C:
-    citations: 1
+    citations: 2
     title: "\xBB Lightweight research data management with dtool: A use case \xAB"
     year: '2022'
+  j9n8S9QAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Stress-modulated ionic transport limits composite cathode kinetics in solid-state batteries
+    year: '2026'
   j9n8S9QAAAAJ:_FxGoFyzp5QC:
-    citations: 3
+    citations: 5
     title: 'dtool and dserver: A flexible ecosystem for findable data'
     year: '2024'
   j9n8S9QAAAAJ:kNdYIx-mwKoC:
@@ -54,7 +58,7 @@ papers:
     title: Multiscale Modeling of Bipolar Electrochemistry
     year: Unknown Year
   j9n8S9QAAAAJ:ufrVoPGSRksC:
-    citations: 30
+    citations: 31
     title: 'matscipy: materials science at the atomic scale with Python'
     year: '2024'
   j9n8S9QAAAAJ:zYLM7Y9cAGgC:
