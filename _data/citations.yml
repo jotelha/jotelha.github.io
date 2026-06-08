@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-08'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -41,10 +41,6 @@ papers:
     citations: 2
     title: "\xBB Lightweight research data management with dtool: A use case \xAB"
     year: '2022'
-  j9n8S9QAAAAJ:Zph67rFs4hoC:
-    citations: 0
-    title: Stress-modulated ionic transport limits composite cathode kinetics in solid-state batteries
-    year: '2026'
   j9n8S9QAAAAJ:_FxGoFyzp5QC:
     citations: 5
     title: 'dtool and dserver: A flexible ecosystem for findable data'
