@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-07-13'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -25,6 +25,10 @@ papers:
     citations: 0
     title: 'Morphology, concentration, potential: Exploring tunable adsorption film friction with molecular dynamics'
     year: Unknown Year
+  j9n8S9QAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Understanding the Role of Microstructure in the Extraction of Solid-State Diffusion Coefficients by a 3D Modeling Approach
+    year: '2026'
   j9n8S9QAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Workflow Management for Parametric AFM Study on Surfactant Adsorption Film by Molecular Dynamics
@@ -37,6 +41,10 @@ papers:
     citations: 0
     title: Finite element simulations of the electrochemical double layer structure under microscopic probes of various geometries
     year: '2021'
+  j9n8S9QAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Counterion effect on boundary lubrication of cationic surfactant at mica-water interface
+    year: '2026'
   j9n8S9QAAAAJ:YsMSGLbcyi4C:
     citations: 2
     title: "\xBB Lightweight research data management with dtool: A use case \xAB"
@@ -54,7 +62,7 @@ papers:
     title: Multiscale Modeling of Bipolar Electrochemistry
     year: Unknown Year
   j9n8S9QAAAAJ:ufrVoPGSRksC:
-    citations: 31
+    citations: 32
     title: 'matscipy: materials science at the atomic scale with Python'
     year: '2024'
   j9n8S9QAAAAJ:zYLM7Y9cAGgC:
