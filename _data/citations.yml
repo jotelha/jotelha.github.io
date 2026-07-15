@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-15'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -62,7 +62,7 @@ papers:
     title: Multiscale Modeling of Bipolar Electrochemistry
     year: Unknown Year
   j9n8S9QAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 33
     title: 'matscipy: materials science at the atomic scale with Python'
     year: '2024'
   j9n8S9QAAAAJ:zYLM7Y9cAGgC:
