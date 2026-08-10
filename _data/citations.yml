@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-10'
 papers:
   j9n8S9QAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -43,7 +43,7 @@ papers:
     year: '2026'
   j9n8S9QAAAAJ:YsMSGLbcyi4C:
     citations: 2
-    title: "\xBB Lightweight research data management with dtool: A use case \xAB"
+    title: 'Lightweight research data management with dtool: a use case'
     year: '2022'
   j9n8S9QAAAAJ:_FxGoFyzp5QC:
     citations: 5
@@ -58,10 +58,10 @@ papers:
     title: Multiscale Modeling of Bipolar Electrochemistry
     year: Unknown Year
   j9n8S9QAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 33
     title: 'matscipy: materials science at the atomic scale with Python'
     year: '2024'
   j9n8S9QAAAAJ:zYLM7Y9cAGgC:
     citations: 2
-    title: "SDS Adsorptions Films at the HO-Au(111) Interface: Molecular Dynamics Study of AFM Tip\u2013Surface Contact"
+    title: "SDS adsorptions films at the H2O\u2013Au (111) interface: Molecular dynamics study of AFM tip\u2013surface contact,\u201D"
     year: '2020'
